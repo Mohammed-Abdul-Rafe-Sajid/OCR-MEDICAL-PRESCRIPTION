@@ -27,20 +27,6 @@ To build a system that can:
 
 ---
 
-## 📂 Project Structure
-├── data/
-│ ├── raw/ # Raw prescription images
-│ └── processed/ # Preprocessed (cleaned) images
-├── notebooks/
-│ └── main_pipeline.ipynb # Core project steps
-├── outputs/
-│ └── extracted_text.csv # OCR + structured results
-├── README.md
-└── requirements.txt
-
-
----
-
 ## 🔄 Workflow
 
 1. **Data Collection:** Use of real or synthetic handwritten prescription images.
