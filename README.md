@@ -35,36 +35,6 @@ To build a system that can:
 4. **Text Parsing:** Clean and structure the OCR output using string processing and regex.
 5. **(Optional)** Deep Learning Enhancement using CNNs to detect specific fields (medicine name, dosage).
 
----
-
-## ✅ Sample Output
-
-**Input Image:**
-
-*insert image here*
-
-**Extracted Output:**
-```json
-{
-  "Medicine": "Paracetamol",
-  "Dosage": "500mg",
-  "Frequency": "Twice a day"
-}
-
-📈 Future Improvements
-Use deep learning to improve accuracy on poor handwriting.
-
-Build a web app using Streamlit for user interaction.
-
-Integrate with a drug database for verification.
-
-📚 References
-Tesseract OCR Documentation
-
-OpenCV Tutorials
-
-Kaggle Medical OCR Datasets
-
 🙋‍♂️ Author
 Mohammed Abdul Rafe Sajid
 AI/ML Research Intern
