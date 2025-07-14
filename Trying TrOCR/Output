@@ -1,0 +1,2 @@
+## did not run for all dataset, as reached to conclusion by testing on samples--Output is not appropriate,
+## gives only few words and therefore TrOCR should not be used for medical handwritten prescriptions where segmentation is not done
