@@ -79,6 +79,6 @@ To build a system that can:
 ## 🙋‍♂️ Author
 
 **Mohammed Abdul Rafe Sajid**
-* Research Intern
-* Chaitanya Bharathi Institute of Technology
+- Research Intern
+Chaitanya Bharathi Institute of Technology
 
