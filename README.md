@@ -23,7 +23,7 @@ To build a system that can:
   - NumPy, Pandas (Data Handling)
   - Regex / NLP (Text Parsing)
   - (Optional) TensorFlow or PyTorch (Deep Learning Enhancement)
-- **Platform:** Google Colab / Jupyter Notebook
+- **Platform:** Google Colab 
 
 ---
 
