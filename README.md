@@ -79,9 +79,6 @@ To build a system that can:
 ## 🙋‍♂️ Author
 
 **Mohammed Abdul Rafe Sajid**
-Research Intern
-Chaitanya Bharathi Institute of Technology
+* Research Intern
+* Chaitanya Bharathi Institute of Technology
 
----
-
-Would you like me to make it Markdown-formatted *exactly* for GitHub (with code blocks, emojis optimized for GitHub, and clean alignment for sections)? That would make it look more polished when uploaded.
