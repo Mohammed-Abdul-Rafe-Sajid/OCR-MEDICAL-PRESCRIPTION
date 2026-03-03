@@ -1,4 +1,4 @@
-# 📝 Handwritten Medical Prescription OCR System
+#  Handwritten Medical Prescription OCR System
 
 This project was developed as part of my **AI/ML Research Internship Capstone** under the mentorship of **Mr. Rammakrishna Sir**.
 The goal was to design an intelligent OCR-based system capable of reading and extracting structured data from **handwritten medical prescriptions**, an especially challenging domain in computer vision and natural language processing.
