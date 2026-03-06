@@ -5,7 +5,7 @@ The goal was to design an intelligent OCR-based system capable of reading and ex
 
 ---
 
-## 📌 Project Objective
+##  Project Objective
 
 To build a system that can:
 
