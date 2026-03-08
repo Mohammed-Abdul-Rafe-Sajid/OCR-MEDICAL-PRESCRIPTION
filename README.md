@@ -18,7 +18,7 @@ To build a system that can:
 
 ---
 
-## 🧠 Technologies & Tools Used
+## Technologies & Tools Used
 
 * **Language:** Python
 * **Libraries & Frameworks:**
