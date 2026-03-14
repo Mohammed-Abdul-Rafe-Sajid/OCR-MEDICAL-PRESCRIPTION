@@ -68,7 +68,7 @@ To build a system that can:
 
 ---
 
-## 🚀 Future Work
+##  Future Work
 
 * Fine-tune **EasyOCR** or **TRoCR** models on a **custom medical handwriting dataset**.
 * Integrate **Named Entity Recognition (NER)** for structured extraction of medicine names and dosage patterns.
