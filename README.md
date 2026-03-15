@@ -58,7 +58,7 @@ To build a system that can:
 
 ---
 
-## 📊 Key Observations & Learnings
+##  Key Observations & Learnings
 
 * **OCR Accuracy** heavily depends on **image preprocessing** and **page segmentation modes**.
 * **Handwritten prescriptions**, due to inconsistent handwriting and overlapping text, remain a major OCR challenge.
